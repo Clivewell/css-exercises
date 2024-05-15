@@ -1,0 +1,18 @@
+.oddEl {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(235, 150, 150);
+}
+
+#secondElement {
+    color: rgb(0,0,255);
+    font-size: 32px;
+}
+
+#fourthElement {
+    background-color: rgb(80,250,100);
+    font-weight: bold;
+}
+
+.font24 {
+    font-size: 24px;
+}
